@@ -1,5 +1,6 @@
 import Layout from "../components/Layout";
 
+
 const Index = () => (
 <Layout>
         <h1>Holaa</h1>

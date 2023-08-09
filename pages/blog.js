@@ -1,4 +1,6 @@
 import Layout from "../components/Layout";
+import Link from 'next/link'
+
 const Blog = () => (
 
     <Layout>
@@ -7,3 +9,6 @@ const Blog = () => (
     </Layout>
 ) 
 export default Blog;
+
+
+
