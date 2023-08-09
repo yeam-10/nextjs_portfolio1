@@ -4,7 +4,10 @@ const Layout = ({ children }) =>
 
     <>
         <Navbar />
-        {children}
+        <main className='container py-4'>
+            {children}
+        </main>
+        
 
     </>
 
